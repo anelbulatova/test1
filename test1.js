@@ -24,3 +24,8 @@ var wordBlanks =
 
 // Only change code below this line
 const myArray = ["Hello", 24];
+
+const teams = [
+  ["Bulls", 23],
+  ["White Sox", 45],
+];
