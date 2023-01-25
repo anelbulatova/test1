@@ -21,3 +21,6 @@ const myAdverb = "quickly";
 
 var wordBlanks =
   "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + ".";
+
+// Only change code below this line
+const myArray = ["Hello", 24];
