@@ -76,3 +76,8 @@ function functionWithArgs(one, two) {
   console.log(one + two);
 }
   functionWithArgs(7, 3);
+  function timesFive(num) {
+    return num * 5;
+  }
+  
+  const answer = timesFive(5);
