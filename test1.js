@@ -30,3 +30,8 @@ const teams = [
   ["White Sox", 45],
 ];
 Create a variable called myData and set it to equal the first value of myArray using bracket notation.
+// Setup
+const myArray = [18, 64, 99];
+
+// Only change code below this line
+myArray[0] = 45;
