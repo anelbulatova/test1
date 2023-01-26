@@ -269,6 +269,8 @@ function testLessOrEqual(val) {
     return "Smaller Than or Equal to 24";
   }
 
+  val >= 25
+
   return "More Than 24";
 }
 
